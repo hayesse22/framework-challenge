@@ -94,6 +94,7 @@ section {
   display: flex;
   flex-wrap: wrap;
   justify-content: var(--justify-important);
+  padding: 20px;
 }
 
 section img,
