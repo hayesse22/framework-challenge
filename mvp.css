@@ -99,7 +99,7 @@ section {
 
 section img,
 article img {
-  text-align: right;
+  text-align: center;
 }
 
 section pre {
@@ -146,6 +146,10 @@ header a strong {
 
 header nav img {
   margin: 1rem 0;
+}
+
+header img {
+  margin-right: 500px;
 }
 
 section header {
