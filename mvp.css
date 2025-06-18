@@ -134,6 +134,10 @@ header {
   text-align: var(--justify-important);
 }
 
+header img {
+  text-align: right;
+}
+
 header a b,
 header a em,
 header a i,
