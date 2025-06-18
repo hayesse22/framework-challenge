@@ -65,12 +65,11 @@ div article {
   display: flex;
   gap: 1.5rem;
   flex: 1 1 250px;
-  border-bottom: 2px double rgb(0, 64, 0);
+  border-top: 2px double rgb(0, 64, 0);
 }
 
 article h3 {
   margin-top: -15px;
-  padding: 20px;
 }
 
 article p {
