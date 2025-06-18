@@ -95,6 +95,7 @@ section {
   flex-wrap: wrap;
   justify-content: var(--justify-important);
   padding: 20px;
+  border-bottom: 3px dotted rgb(0, 64, 0);
 }
 
 section img,
