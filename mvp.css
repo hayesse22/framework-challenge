@@ -70,10 +70,12 @@ div article {
 
 article h3 {
   margin-top: -15px;
+  padding: 20px;
 }
 
 article p {
   margin-top: -15px;
+  padding: 20px;
 }
 
 body {
