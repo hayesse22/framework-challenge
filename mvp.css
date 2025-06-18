@@ -60,6 +60,11 @@ article aside {
   padding: 0.01rem 0.8rem;
 }
 
+article {
+  flex-wrap: wrap;
+  
+}
+
 body {
   background: var(--color-bg);
   color: var(--color-text);
