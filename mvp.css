@@ -67,6 +67,14 @@ div article {
   flex: 1 1 250px;
 }
 
+article h3 {
+  margin-bottom: 30px;
+}
+
+article p {
+  margin-bottom: 30px;
+}
+
 body {
   background: var(--color-bg);
   color: var(--color-text);
