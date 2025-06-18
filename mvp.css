@@ -1,9 +1,5 @@
 /* MVP.css v1.17.2 - https://github.com/andybrewer/mvp */
 
-.title {
-  text-align: center;
-}
-
 :root {
   --active-brightness: 0.85;
   --border-radius: 5px;
@@ -78,6 +74,10 @@ main {
   margin: 0 auto;
   max-width: var(--width-content);
   padding: 3rem 1rem;
+}
+
+header {
+  text-align: center;
 }
 
 hr {
