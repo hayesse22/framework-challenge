@@ -68,11 +68,11 @@ div article {
 }
 
 article h3 {
-  margin-bottom: 30px;
+  margin-top: -30px;
 }
 
 article p {
-  margin-bottom: 30px;
+  margin-top: -30px;
 }
 
 body {
