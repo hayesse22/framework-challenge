@@ -60,9 +60,11 @@ article aside {
   padding: 0.01rem 0.8rem;
 }
 
-article {
+div article {
   flex-wrap: wrap;
-  
+  display: flex;
+  gap: 1.5rem;
+  flex: 1 1 250px;
 }
 
 body {
