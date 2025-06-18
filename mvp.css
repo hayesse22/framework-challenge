@@ -99,7 +99,7 @@ section {
 
 section img,
 article img {
-  size: 200px;
+  text-align: center;
 }
 
 section pre {
