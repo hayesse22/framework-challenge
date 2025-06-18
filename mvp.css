@@ -259,7 +259,9 @@ h1 {
   margin-left: 10px;
 }
 
-
+h2 {
+  margin-right: 750px;
+}
 
 mark {
   padding: 0.1rem;
