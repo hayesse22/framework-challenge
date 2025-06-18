@@ -1,8 +1,6 @@
 /* MVP.css v1.17.2 - https://github.com/andybrewer/mvp */
 
-h2 .Arena {
-  margin-right: 200;
-}
+
 
 :root {
   --active-brightness: 0.85;
@@ -259,6 +257,10 @@ h6 {
 
 h1 {
   margin-left: 10px;
+}
+
+h2 {
+  margin-right: 200px;
 }
 
 mark {
