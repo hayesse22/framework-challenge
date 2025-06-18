@@ -254,6 +254,7 @@ h5,
 h6 {
   line-height: var(--line-height);
   text-wrap: balance;
+  padding: 20px;
 }
 
 h1 {
