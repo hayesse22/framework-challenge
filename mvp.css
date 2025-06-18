@@ -1,8 +1,6 @@
 /* MVP.css v1.17.2 - https://github.com/andybrewer/mvp */
 
-#logo {
-  size: 200px;
-}
+
 
 :root {
   --active-brightness: 0.85;
@@ -101,7 +99,7 @@ section {
 
 section img,
 article img {
-  max-width: 100%;
+  size: 200px;
 }
 
 section pre {
