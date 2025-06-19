@@ -66,9 +66,10 @@ div article {
   gap: 2rem;
   justify-content: space-evenly;
   flex: 1 1 300px;
+  background-color: rgb(241, 255, 241);
   max-width: 320px;
   padding: 1rem;
-  border: 1px solid #ccc;
+  border: 2px solid #000000;
   border-radius: 10px;
 }
 
