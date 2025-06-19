@@ -190,6 +190,10 @@ section header {
   width: 100%;
 }
 
+section div article {
+  padding: 20px;
+}
+
 /* Nav */
 nav {
   align-items: center;
