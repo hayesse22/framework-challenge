@@ -62,6 +62,7 @@ article aside {
 
 div {
   padding: 30px;
+  gap: 20px;
 }
 
 div article {
