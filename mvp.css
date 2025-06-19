@@ -64,9 +64,9 @@ div article {
   display: flex;
   flex-wrap: wrap;
   flex: 1 1 300px;
-  gap: 2rem;
+  gap: 25px;
   justify-content: space-evenly;
-  background-color: rgb(227, 255, 227);
+  background-color: rgb(249, 237, 197);
   max-width: 400px;
   padding: 1rem;
   border: 2px solid #000000;
