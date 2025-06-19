@@ -65,6 +65,7 @@ div article {
   display: flex;
   gap: 1.5rem;
   flex: 1 1 250px;
+  border: #333;
 }
 
 article h3 {
