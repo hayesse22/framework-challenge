@@ -61,11 +61,15 @@ article aside {
 }
 
 div article {
-  flex-wrap: wrap;
   display: flex;
-  gap: 1.5rem;
-  flex: 1 1 250px;
-  border: #333;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-evenly;
+  flex: 1 1 300px;
+  max-width: 320px;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
 }
 
 article h3 {
